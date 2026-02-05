@@ -508,5 +508,3 @@ Franck Ulrich BIPANDA
 🌐 [Portfolio](https://datascienceportfol.io/bipandaf)
 
 ⭐ Si ce projet vous a été utile, n'hésitez pas à le star !
-
-*Dernière mise à jour : Janvier 2026*
